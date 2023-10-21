@@ -78,6 +78,74 @@ Mejoramos las definiciones previamente establecidas.
 Durante esta iteración, el equipo se enfocará en desarrollar prototipos que representan posibles soluciones para el Producto Mínimo Viable (MVP). Se utilizará la herramienta Figma para el diseño de los prototipos, ya que algunos miembros del equipo ya han trabajado con ella, y se importarán los diseños a framer para crear las animaciones de los prototipos.
 - **Validar prototipos**: Al final de la iteración se presentarán los prototipos realizados a usuarios finales y se analizará su feedback para incorporar mejoras en las próximas iteraciones.
 
+### Sprint backlog con historias de usuarios y tareas asociadas
+
+**Épica 1: Registro y Autenticación de Usuario**
+
+- **Registro**: Como usuario, quiero poder registrarme utilizando mi email, nombre de usuario, contraseña, avatar y seleccionar 3 juegos que me gusten.
+  - **Criterios de Aceptación**:
+    - Debe haber campos para email, nombre de usuario, contraseña y selección de juegos.     
+    - Debe mostrar un mensaje de éxito después del registro.
+  - **Tareas**:
+    1. Crear campos de texto (Email o nombre de usuario y contraseña)
+    2. Crear ventana de selección de avatar.
+    3. Selección de videojuegos favoritos.
+    4. Agregar navegación entre layers.
+
+- **Autenticación**: Como usuario, quiero poder autenticarse con mi nombre de usuario y contraseña.
+  - **Criterios de aceptación**: 
+    - Debe haber campos para nombre de usuario y contraseña. 
+    - Debe proporcionar un mensaje de error en caso de credenciales incorrectas.
+  - **Tareas**:
+    1. Hacer pantalla de login.
+    2. Hacer pantalla de error para campos incorrectos.
+    3. Hacer campos tipeables.
+
+**Épica 2: Creación de Partidas y Búsqueda de Partidas**
+- **Crear partida**: Como usuario, quiero poder crear una partida amistosa o competitiva, seleccionando el juego y la cantidad de jugadores.
+  - **Criterios de Aceptación**: 
+    - Debe haber opciones para elegir el tipo de partida (amistosa o competitiva), seleccionar un juego y definir la cantidad de jugadores. 
+    - La partida debe aparecer en la lista de partidas disponibles.
+  - **Tareas**:
+    1. Hacer form para los datos de la partida
+    2. Seleccionar número de jugadores.
+    3. Seleccionar juego.
+
+- **Buscar partida**: Como usuario, quiero poder buscar partidas disponibles para unirse, filtrando por juego y tipo de partida.
+  - **Criterios de Aceptación**: 
+    - Debe haber filtros para elegir el juego y el tipo de partida. 
+    - Debe mostrar una lista de partidas disponibles según los filtros.
+  - **Tareas**:
+    1. Barra de búsqueda tipeable
+    2. Agregar filtro por tipo de partida
+    3. Mostrar lista de partidas
+
+Muestra de Épica en azure con sus User Stories y tareas asociadas:
+
+<img width="803" alt="Screenshot 2023-10-21 at 19 45 53" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/62d1c7cc-9917-49ba-b9d2-384a54fb5627">
+
+### Planificación de acuerdo a la capacidad del equipo.
+
+Algunos miembros del equipo tenían experiencia previa utilizando Figma (herramienta de prototipado) por lo que en primer lugar se hizo un boceto utilizando esta herramienta por aquellos miembros con experiencia del equipo.
+
+Luego el equipo llegó a la conclusión que esta herramienta no era lo suficientemente completa como para hacer el 100% del prototipo allí por lo que otra parte del equipo se encargó de migrar el boceto inicial a la herramienta de prototipado sugerida por la cátedra, Framer, la cual nos iba a permitir, a diferencia de Figma, tener campos de textos editables y una mejor animación e interacción entre los elementos del diseño.
+
+Luego de tener un prototipo más estable en Framer, la otra parte del equipo se encargó de animar estos prototipos, darle vida a los botones e interacciones.
+
+En cuanto a la documentación, se optó por asignar esta responsabilidad a quienes menos conocimiento de las herramientas de prototipado tenían, de manera de acelerar el proceso. De todas maneras todos los miembros contribuyeron a la documentación en distinta medida.
+
+### Técnicas de priorización y estimación utilizada
+
+En base a todas las user stories presentadas, el equipo realizó una votación para priorizarlas. Se presentó el Story Map generado en la iteración anterior y se discutió en grupo votando cuáles historias debían ser generadas en este sprint.
+
+El equipo decidió priorizar por un lado aquellas funcionalidades que nos parecían más importantes y que añadían mayor valor al proyecto, como son las de Creación y Búsqueda de partidas para iniciar a jugar, y por otro aquellas que iban a ser requeridas en futuras funcionalidades, como por ejemplo todo lo relacionado con la autenticación del usuario (registro, inicio de sesión e inicio de sesión con Google). Estas funcionalidades tuvieron una alta prioridad ya que eran necesarias para cualquier otra interacción que el usuario deseara realizar.
+
+Para las estimaciones se realizó una dinámica similar de votación, partiendo de una User Story se debatió en el equipo y se le asignó un valor relativo de Story Points, el cual sirvió de medición para votar el valor del historias siguientes.
+
+### Métricas del equipo
+
+El equipo obtuvo una velocity de 10 story points por Sprint en lo que va del proyecto.
+
 ## Seguimiento de la iteración
 
 _[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
