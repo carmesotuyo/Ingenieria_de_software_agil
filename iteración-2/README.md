@@ -13,28 +13,70 @@
 
 ## Definición del marco de trabajo
 
-_[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
+Al igual que en la iteración anterior, mantenemos del marco de trabajo SCRUM los roles principales y ceremonias para llevar adelante las tareas de prototipado y evaluación del proceso de trabajo.
 
-### Artefactos principales
+Mantenemos los mismos roles:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
 
-- Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración.
-- Roles y responsabilidades definidos para cada integrante del equipo.
-- Políticas de trabajo del equipo:
-  - Definition of Done.
-  - Definition of Ready.
+Mantenemos la agenda de actividades, con la única modificación de que pasamos a realizar la Daily Scrum flexible, es decir quienes no se pueden unir en el tiempo definido pueden enviar su update por escrito al grupo de whatsapp del equipo. De esta manera no generamos pérdida de tiempo durante las meetings, y a su vez mantenemos la planificación actualizada.
+
+- Sprint Planning: primer lunes de cada sprint
+- Daily Scrum: martes y jueves
+- Sprint Review: último viernes del sprint
+- Sprint Retrospective: último viernes del sprint, posterior a la Review
+
+## Definiciones del equipo
+
+Mejoramos las definiciones previamente establecidas.
+
+### Definition of Done (DoD): 
+
+- El prototipo es interactivo y permite simular todas las funcionalidades planteadas.
+- Se realizaron pruebas de aceptación sobre el prototipo y las mismas pasaron.
+- La documentación del trabajo realizado en cada iteración se realiza en una rama separada de main
+- La rama de trabajo es revisada por otro miembro del equipo, diferente a quien la trabajó
+- Una vez aprobada y finalizado el trabajo de la iteración, el mismo es mergeado a Main
+
+### Definition of Ready (DoR):
+
+- La descripción es clara y comprensible para todos los interesados.
+- Cuenta con criterios de aceptación definidos.
+- Cumple con las características INVEST, es decir es independiente, negociable, aporta valor, es estimable, pequeña y testeable.
 
 ## Planificación de la iteración
 
-_[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
+### Minuta de la Sprint Planning: Iteración 2
 
-### Artefactos principales
+**Fecha**: 9 octubre 
 
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-- Uso de métricas relevantes para la planificación como la velocidad y productividad.
+**Asistentes**:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
+
+**Agenda**:
+
+1. Bienvenida y Revisión del Objetivo de la Iteración: Iniciamos la reunión revisando el objetivo de la segunda iteración, que es "Construir y validar posibles soluciones del MVP a través de prototipos."
+2. Identificación de Principales Épicas e Historias de Usuario a Realizar: Identificamos las épicas y las historias de usuario clave que serán abordadas durante las iteraciones de prototipado y su prioridad.
+3. Definición del Product Backlog: Creamos y actualizamos el Product Backlog con las épicas e historias de usuario identificadas.
+4. Priorización de Prototipos a Idear y Validar: Priorizamos los prototipos que se deben desarrollar y validar en el ciclo de descubrimiento. Estos se realizan mediante Figma y se animan mediante Framer.
+5. Asignación de Tareas y Estimaciones: Asignamos tareas específicas a los miembros del equipo y estimamos el esfuerzo requerido para completarlas.
+6. Conclusiones y Cierre de la Reunión: Resumimos los acuerdos alcanzados, los próximos pasos y cerramos la reunión de Sprint Planning.
+
+**Actividades y Resultados**:
+- Se definió claramente el objetivo de la iteración.
+- Se identificaron las épicas e historias de usuario relevantes para esta fase.
+- Se actualizó y priorizó el Product Backlog.
+- Se acordó trabajar en la creación y validación de prototipos usando Figma y Framer
+- Se asignaron tareas a los miembros del equipo y se realizaron estimaciones.
+
+### Objetivos de la iteración 
+
+- **Construir prototipos**:
+Durante esta iteración, el equipo se enfocará en desarrollar prototipos que representan posibles soluciones para el Producto Mínimo Viable (MVP). Se utilizará la herramienta Figma para el diseño de los prototipos, ya que algunos miembros del equipo ya han trabajado con ella, y se importarán los diseños a framer para crear las animaciones de los prototipos.
+- **Validar prototipos**: Al final de la iteración se presentarán los prototipos realizados a usuarios finales y se analizará su feedback para incorporar mejoras en las próximas iteraciones.
 
 ## Seguimiento de la iteración
 
