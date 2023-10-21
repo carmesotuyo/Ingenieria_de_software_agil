@@ -148,16 +148,95 @@ El equipo obtuvo una velocity de 10 story points por Sprint en lo que va del pro
 
 ## Seguimiento de la iteración
 
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
+### Minuta de Daily Scrum 5:
 
-### Artefactos principales
+**Fecha**: 10 de octubre de 2023
 
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-  - ¿Que logramos hacer?
-  - ¿Qué planificamos hacer?
-  - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
+**Asistentes**:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
+
+**¿Qué logramos hacer?**
+- Hemos iniciado el desarrollo de los prototipos utilizando la herramienta Framer. 
+- Cada miembro del equipo ha comenzado a explorar y crear las primeras propuestas para el MVP.
+
+**¿Qué planificamos hacer?**
+- Continuar con el desarrollo de los prototipos, asegurándonos de que cada solución propuesta esté siendo representada adecuadamente en la herramienta.
+
+**¿Qué impedimentos tenemos?**
+- Algunos miembros del equipo están experimentando una curva de aprendizaje con Framer.
+
+### Minuta de Daily Scrum 6:
+
+**Fecha**: 12 de octubre de 2023
+
+**Asistentes**:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
+
+**¿Qué logramos hacer?**
+- Hemos continuado el desarrollo de los prototipos en Framer, incorporando nuevas soluciones para el MVP.
+
+**¿Qué planificamos hacer?**
+- Continuar el desarrollo de las historias de usuario.
+- Realizar pruebas de integración dentro de los miembros del equipo.
+
+**¿Qué impedimentos tenemos?**
+- Algunos miembros del equipo están experimentando dificultades técnicas que pueden retrasar el desarrollo, estamos buscando soluciones.
+
+### Minuta de Daily Scrum 7:
+
+**Fecha**: 17 de octubre de 2023
+
+**Asistentes**:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
+
+**¿Qué logramos hacer?**
+- Hemos avanzado en el desarrollo de los prototipos.
+
+**¿Qué planificamos hacer?**
+- Continuar el desarrollo.
+
+**¿Qué impedimentos tenemos?**
+- No hay impedimentos en este momento.
+
+### Minuta de Daily Scrum 8:
+
+**Fecha**: 19 de octubre de 2023
+
+**Asistentes**:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
+
+**¿Qué logramos hacer?**
+- Finalizamos el desarrollo.
+- Preparamos la reunión de revisión del sprint.
+
+**¿Qué planificamos hacer?**
+- Planificar y priorizar el próximo sprint en base a los comentarios recibidos.
+
+**¿Qué impedimentos tenemos?**
+- Estamos experimentando algunos desafíos en la coordinación de horarios para la próxima iteración.
+
+### Reporte de horas
+
+En este sprint pudimos cumplir mejor la capacidad pactada, superando las del sprint pasado. Sobre todo en la segunda semana del Sprint el equipo dedicó mayor cantidad de tiempo para lograr cumplir con los objetivos.
+
+<img width="1285" alt="Screenshot 2023-10-21 at 20 31 19" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/1953e93b-8d60-4a84-8c17-04d55bb8e943">
+
+<img width="1283" alt="Screenshot 2023-10-21 at 20 31 40" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/3644aec1-1906-44c1-893f-5da4da3d042f">
+
+### Burndown chart
+
+Sobre la mitad del sprint se vió que el equipo debía dedicarle más tiempo para cumplir los Story Points pautados.
+
+<img width="1275" alt="Screenshot 2023-10-21 at 20 33 07" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/69ac7da2-83b5-451d-aebe-2da96ef1c5c9">
+
 
 ## Inspección y adaptación del proceso
 
