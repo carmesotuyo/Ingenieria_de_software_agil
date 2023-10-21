@@ -284,12 +284,58 @@ Se identificaron áreas de mejora clave para optimizar el flujo de trabajo y la 
 
 ## Prototipos con posibles soluciones
 
-_[Existen diferentes propuestas de solución para entregar valor y resolver el problema identificado implementado a través de prototipos. Los prototipos deberán ser exportados en algún formato de imagen (como png o jpg) a efectos de poder ser visualizados fácilmente dentro del propio repo de github.]_
+En el siguiente enlace se puede visualizar el prototipo interactivo, para su mejor visualización recomendamos abrirlo en un dispositivo móvil, o achicar la pantalla del navegador ya que el prototipo fue pensado para una aplicación móvil:
 
-### Artefactos principales
+[https://mvpvideogames.framer.website](https://mvpvideogames.framer.website) 
 
-- Prototipos interactivos para ser navegados.
-- Prototipos asociados como bocetos a las historias de usuario.
+### Épica 1: Registro y Autenticación de Usuario
+
+**User Story 1**: Como usuario, quiero poder registrarme utilizando mi email, nombre de usuario, contraseña, avatar y seleccionar 3 juegos que me gusten.
+
+**Criterios de Aceptación**: 
+- Debe haber campos para email, nombre de usuario, contraseña y selección de juegos.
+- Debe haber una validación de email única.
+- Debe mostrar un mensaje de éxito después del registro.
+
+<img width="305" alt="Screenshot 2023-10-21 at 16 26 14" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/07fdc61b-2bd7-4629-b703-574ce442020a">
+<img width="311" alt="Screenshot 2023-10-21 at 16 26 53" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/a3301c9a-0a03-4e71-a688-c65c255abef0">
+<img width="311" alt="Screenshot 2023-10-21 at 16 27 35" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/ca576a48-d3e0-4a3b-afe3-2c6ef4e05725">
+<img width="314" alt="Screenshot 2023-10-21 at 16 27 55" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/bfae9e3a-dd53-49ac-b22d-09aeef9a9fcc">
+<img width="315" alt="Screenshot 2023-10-21 at 16 28 18" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/b0a577c7-01be-4885-86f1-b89dc943e38c">
+
+**User Story 2**: Como usuario, quiero poder autenticarse con mi nombre de usuario y contraseña.
+
+**Criterios de aceptación**: 
+- Debe haber campos para nombre de usuario y contraseña.
+- Debe proporcionar un mensaje de error en caso de credenciales incorrectas.
+
+<img width="303" alt="Screenshot 2023-10-21 at 16 48 00" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/3ccb2366-e765-4cdf-bae2-ab7c2d4512c7">
+<img width="301" alt="Screenshot 2023-10-21 at 16 48 26" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/9bd295b0-5523-4efe-a61e-93cc35cda683">
+
+### Épica 2: Creación de Partidas y Búsqueda de Partidas
+
+**User Story  3**: Como usuario, quiero poder crear una partida amistosa o competitiva, seleccionando el juego y la cantidad de jugadores.
+
+**Criterios de Aceptación**: 
+- Debe haber opciones para elegir el tipo de partida (amistosa o competitiva), seleccionar un juego y definir la cantidad de jugadores.
+- La partida debe aparecer en la lista de partidas disponibles.
+
+<img width="314" alt="Screenshot 2023-10-21 at 16 50 59" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/291731a7-1306-4c08-90cf-6929568aa01f">
+<img width="305" alt="Screenshot 2023-10-21 at 16 51 26" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/53dccc59-bfe8-4b3d-8a4f-dc40d93f2094">
+<img width="291" alt="Screenshot 2023-10-21 at 16 52 00" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/4f2a4143-ca4f-48ba-91fe-18cca18aeb90">
+<img width="291" alt="Screenshot 2023-10-21 at 16 52 18" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/a65a69e3-5317-4881-a814-90224c172f89">
+
+**User Story 4**: Como usuario, quiero poder buscar partidas disponibles para unirse, filtrando por juego y tipo de partida.
+
+**Criterios de Aceptación**: 
+- Debe haber filtros para elegir el juego y el tipo de partida.
+- Debe mostrar una lista de partidas disponibles según los filtros.
+
+<img width="303" alt="Screenshot 2023-10-21 at 16 57 07" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/f7b73c7c-071a-4aa2-bdf3-cca15aa2f695">
+<img width="301" alt="Screenshot 2023-10-21 at 16 58 23" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/2b3d8ac5-3080-4f8d-a1dc-28281cf73f14">
+<img width="316" alt="Screenshot 2023-10-21 at 16 58 51" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/cc0e724a-ace8-4d6a-850f-6e7aef29dfaa">
+<img width="311" alt="Screenshot 2023-10-21 at 16 59 11" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/652414d6-a861-44c6-8b20-0bc0851bf38e">
+
 
 ## Inspección y adaptación del producto
 
