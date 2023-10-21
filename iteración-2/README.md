@@ -339,12 +339,73 @@ En el siguiente enlace se puede visualizar el prototipo interactivo, para su mej
 
 ## Inspección y adaptación del producto
 
-_[Existe evidencia de instancias de inspección y validación del producto con usuarios y la recolección de su feedback con ajustes finales a los prototipos.]_
+### Minuta de Sprint Review
 
-### Artefactos principales
+**Fecha**: 21 de octubre de 2023
 
-- Minutas de sprint review.
-- Evidencia de los usability testing con usuarios finales.
-  - Descripción de las tareas propuestas a los usuarios finales.
-  - Cobertura obtenida de validación de los usuarios de la aplicación.
-- Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
+**Participantes**:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
+
+**Resumen de la Sprint Review**:
+
+En esta Sprint Review, realizamos  la evaluación de usabilidad con potenciales usuarios finales. Para llevar a cabo la evaluación, se compartió un prototipo de la aplicación de juegos en línea con 3 usuarios y se filmó su interacción y comentarios.
+
+**Actividades Realizadas por los Usuarios**:
+
+Dos de los usuarios optaron por saltarse el proceso de registro y utilizaron la opción de "Login con Google". El Usuario 3 completó el proceso de registro como se esperaba.
+
+Todos los usuarios pasaron por las siguientes funcionalidades: Creación de Partidas, Búsqueda de Partidas y Unirse a las mismas.
+Se proporcionó aclaraciones sólo para funcionalidades que aún no estaban prototipadas para evitar influir en la interacción de los usuarios.
+
+### Resultados del Usability Testing:
+
+**Hallazgos Positivos**:
+- Los usuarios encontraron la opción "Login con Google" intuitiva y la mayoría la eligió, lo que demostró un acierto el incorporar esta funcionalidad en el proceso de acceso a la aplicación.
+- Las funcionalidades de Creación de Partidas, Búsqueda de Partidas y Unirse a las Mismas fueron comprensibles y fáciles de utilizar, lo que sugiere una buena usabilidad en estas áreas.
+
+**Hallazgos a Mejorar**:
+- Algunos usuarios mencionaron la falta de claridad en ciertas funcionalidades que aún no estaban prototipadas. Esto indica la importancia de mejorar la comunicación y la información en áreas donde la aplicación aún no está completamente desarrollada.
+
+**Feedback de los Usuarios**:
+- Los usuarios expresaron su entusiasmo por la aplicación y mencionaron que la considerarían para su uso en el futuro, lo que es un indicador positivo.
+
+**Acciones Propuestas**:
+Basándonos en los hallazgos y el feedback de los usuarios, las acciones propuestas son las siguientes:
+- Continuar desarrollando y prototipando las funcionalidades faltantes para ofrecer una experiencia más completa.
+- Reforzar la comunicación y la información sobre las áreas que aún no están prototipadas para evitar confusiones por parte de los usuarios.
+- Realizar más pruebas de usabilidad a medida que se desarrollan nuevas funcionalidades.
+
+**Conclusión**:
+La evaluación de usabilidad con usuarios finales proporcionó información valiosa sobre la percepción y la experiencia de los usuarios con el prototipo de la aplicación. Identificamos áreas de mejora y reafirmamos aspectos positivos para la mejora continua del producto. Estos resultados contribuyen al éxito de nuestro proyecto y a la creación de una aplicación más amigable para los usuarios.
+
+![IMG_9688](https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/93f5454f-4534-49ea-ba66-d300459c57c7)
+![IMG_9686](https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/6962eed2-890a-4273-bdcd-0057c874274b)
+![IMG_9687](https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/c31e27d3-4e27-4f58-b8de-efa9e2ec9cec)
+
+### Detalle del feedback recibido y su priorización
+De la sesión de usability testing se obtuvieron los siguientes puntos a mejorar:
+
+- **Juegos**:
+  - El prototipo no cuenta con la posibilidad de jugar propiamente dicha, lo cual resultó confuso para los participantes que esperaban acceder a un juego y simplemente alcanzaban una pantalla de inicio de juego. La incorporación de juegos reales está fuera del alcance del proyecto actual, pero se priorizará realizar un spike para incorporar, por ejemplo, un video de un juego a modo de simular que la plataforma se conecta con un juego.
+    - Prioridad: Alta
+  - En la pantalla de elección de juegos, si bien se ven los íconos de cada uno, no es sencillo saber qué es cada juego, se priorizará mostrar el nombre de cada juego debajo de los íconos para mayor claridad.
+    - Prioridad: Alta
+  - El prototipo permite elegir más de un juego a la vez y comenzar una partida, lo cual no tiene sentido, debería permitir solamente uno por vez. Esto era de conocimiento del equipo durante el desarrollo pero se descartó en esta primera iteración por falta de mayor experiencia con la herramienta de prototipado, se priorizará realizar un spike en la próxima iteración.
+    - Prioridad: Media
+- **Botones sin interacción**:
+  - En la pantalla de Home se cuenta con íconos de menú y notificaciones que aún no tienen interacción, lo cual resultó confuso para los usuarios. Se priorizará aplicarles funcionalidad en la próxima iteración.
+    - Prioridad: Alta
+  - En la pantalla de creación de partida, el campo Cantidad de jugadores cuenta con dos íconos de + y - los cuales no tienen interacción con el campo, aunque en el mismo se pueden tipear los números. Se priorizará ya sea añadirles la funcionalidad correspondiente o eliminarlos si resulta complejo.
+    - Prioridad: Baja
+- **Mensajes Toast**:
+  - Al crear la partida, el toast dice “Iniciando la partida”, pero los usuarios creyeron que sería mejor que dijera “Creando la partida” para que así posteriormente se pueda invitar a otros usuarios a esa partida y que aparezca en el listado, o dé la opción de iniciarla. Se priorizará una mejora de los mensajes de éxito a lo largo de la aplicación.
+    - Prioridad: Media
+  - No todos los toasts tienen el mismo comportamiento, lo cual resultaba confuso para los usuarios. Se priorizará unificar un criterio de comportamiento para los toasts.
+    - Prioridad: Baja
+- **Otros**:
+  - El campo contraseña siempre muestra los caracteres en lugar de mostrarlo como ***. Se considera como posible mejora de seguridad para la próxima iteración.
+    - Prioridad: Media
+  - Incorporar la posibilidad de invitar amigos cuando se crea la partida.
+    - Prioridad: Media
