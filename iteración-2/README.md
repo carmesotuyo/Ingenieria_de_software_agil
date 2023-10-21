@@ -240,12 +240,45 @@ Sobre la mitad del sprint se vió que el equipo debía dedicarle más tiempo par
 
 ## Inspección y adaptación del proceso
 
-_[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
+### Minuta de la Retrospectiva: Sprint 2
+**Fecha**: 20 de octubre de 2023
 
-### Artefactos principales
+**Asistentes**:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
 
-- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
-- Planificación y seguimiento de las acciones de mejora.
+**Dinámica Utilizada**:
+Para la retrospectiva de este Sprint, utilizamos la técnica "Estrella de Mar". Cada miembro del equipo compartió aspectos que consideraba que habían funcionado bien durante la iteración y también aquellos que consideraban que podrían mejorar.
+
+<img width="962" alt="Screenshot 2023-10-21 at 20 36 45" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/8018e46b-730c-4194-a281-e0b2452bdc52">
+
+**Principales Resultados**:
+
+**Funcionó Bien**:
+- Iniciar el desarrollo de prototipos temprano permitió explorar diversas soluciones.
+- Las sesiones de usability testing brindaron valioso feedback de los usuarios.
+- La colaboración y el apoyo entre los miembros del equipo se mantuvo efectiva.
+
+**A Mejorar**:
+- La curva de aprendizaje con la herramienta Framer generó algunos desafíos.
+- La comunicación sobre impedimentos podría ser más proactiva.
+
+**Planificación y Seguimiento de Acciones de Mejora**:
+- Curva de Aprendizaje con Framer:
+  - Acción: Programar sesiones de entrenamiento adicionales y proporcionar recursos de apoyo.
+  - Responsable: Scrum Master y miembros del equipo.
+  - Fecha de Implementación: Del 23 al 26 de octubre de 2023.
+  - Fecha de Seguimiento: 30 de octubre de 2023.
+- Comunicación sobre Impedimentos:
+  - Acción: Establecer una práctica de actualización diaria sobre posibles impedimentos en la reunión de Daily Scrum.
+  - Responsable: Todos los miembros del equipo.
+  - Fecha de Implementación: A partir del 23 de octubre de 2023
+  - Fecha de Seguimiento: Continua.
+
+**Conclusiones y Cierre de la Retrospectiva**:
+
+Se identificaron áreas de mejora clave para optimizar el flujo de trabajo y la colaboración en el equipo. Estamos comprometidos a implementar las acciones definidas y esperamos una iteración más productiva en el futuro.
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
