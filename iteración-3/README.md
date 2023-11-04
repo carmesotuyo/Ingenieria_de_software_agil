@@ -278,11 +278,31 @@ El equipo obtuvo una velocity de 13 story points. (10 SP del primer sprint, 10 S
 
 ### Reporte de horas
 
-En este sprint pudimos cumplir mejor la capacidad pactada, superando las del sprint pasado. Sobre todo en la segunda semana del Sprint el equipo dedicó mayor cantidad de tiempo para lograr cumplir con los objetivos.
+**Semana 1:**
+<img width="1216" alt="Screenshot 2023-11-04 at 10 47 23" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/5d46ff26-acb1-4777-bd94-d528e4cf5c5b">
+
+**Semana 2:**
+<img width="1211" alt="Screenshot 2023-11-04 at 10 47 57" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/a5afcdb5-8c02-4640-ac4e-8ecd37f50729">
+
+En los primeros días del sprint, el equipo estaba motivado y logró dedicarle más del tiempo pactado y avanzar con el proyecto. Cerca de la mitad del sprint el equipo no pudo dedicar el tiempo pautado, por lo que el progreso se vió estancado y se generaron retrasos. Por esta razón el equipo debió concentrar sus esfuerzos al final del sprint, dedicando más tiempo que el estimado en esos días, para poder alcanzar los objetivos. Se podría pensar que el empujón inicial del sprint tal vez agotó demasiado los recursos, lo que generó el estancamiento intermedio. De todas maneras, el equipo logró balancear los esfuerzos.
 
 ### Burndown chart
-![image](https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/72991161/6d174148-1bfb-4a58-b83a-5b3347fb6421)
+<img width="1010" alt="Screenshot 2023-11-04 at 10 44 50" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/d7c4d46b-246b-440d-91fb-f1caf16e4c11">
 
+La Burndown Chart muestra las User Stories completadas a lo largo del sprint. Se pueden notar varias cosas:
+1. Al principio del sprint el equipo avanzó en muchas tareas, pero no se indicaron como completadas las user stories, por lo que el chart se muestra plano en la primera parte de la iteración.
+2. Posteriormente se puso al día el estado de las user stories.
+3. En la  mitad del sprint se generó un fuerte estancamiento por falta de dedicación de tiempo del equipo hacia el proyecto
+4. En el último tramo el equipo marcó como completas todas las historias realizadas
+5. Se visualiza también que un par de historias fueron quitadas del alcance de la iteración, las mismas eran de baja prioridad y se trataba de mejoras sobre las cuales se realizó un spike y se evaluó que su dificultad no permitía incluirlas en este sprint.
+
+<img width="1014" alt="Screenshot 2023-11-04 at 10 45 23" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/1d26c992-1cfc-48ef-96d3-5bfa7afe773d">
+
+En la Burndown Chart de Tareas podemos observar lo siguiente:
+1. Como se mencionó anteriormente, hubo un gran avance en las tareas los primeros días del sprint.
+2. Posteriormente se produjeron avances menos pronunciados, pero por debajo de la línea ideal.
+3. El gran estancamiento a la mitad del sprint generó que las tareas se acumularan por encima de la línea ideal
+4. Finalmente se logró cumplir el objetivo, así como se eliminaron del alcance las tareas relacionadas a las user stories mencionadas anteriormente.
 
 ## Inspección y adaptación del proceso
 
