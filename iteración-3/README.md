@@ -460,12 +460,49 @@ Se revisaron todas las pantallas, existentes y nuevas, y se realizaron pequeños
 
 ## Inspección y adaptación del producto
 
-_[Existe evidencia de instancias de inspección y validación del producto con usuarios y la recolección de su feedback con ajustes finales a los prototipos.]_
+### Minuta de Sprint Review
 
-### Artefactos principales
+**Fecha**: 4 de noviembre de 2023
 
-- Minutas de sprint review.
-- Evidencia de los usability testing con usuarios finales.
-  - Descripción de las tareas propuestas a los usuarios finales.
-  - Cobertura obtenida de validación de los usuarios de la aplicación.
-- Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
+**Participantes**:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
+
+**Resumen de la Sprint Review**:
+
+En esta Sprint Review, realizamos  la evaluación de usabilidad con potenciales usuarios finales. Para llevar a cabo la evaluación, se compartió un prototipo de la aplicación de juegos en línea con 3 usuarios y se filmó su interacción y comentarios.
+
+**Actividades Realizadas por los Usuarios**:
+- 2 de ellos comenzaron por la funcionalidad de Jugar directamente, sólo 1 investigó en primer lugar la creación de Partidas y Torneos.
+- Todos los usuarios navegaron por las nuevas funcionalidades introducidas de manera orgánica.
+- No se proporcionaron indicaciones a los usuarios de modo de no influir en su interacción, sólo se respondieron consultas puntuales. 
+
+![IMG_9985](https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/986922ab-241c-4e68-b587-eb641527ecbc)
+![IMG_9984](https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/07c92959-abbf-41ca-bab5-0ff874c4d42c)
+![feedback](https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/68713f36-67e0-445b-a8e4-bc60e1db3ab2)
+
+
+### Resultados del Usability Testing:
+
+**Hallazgos Positivos**:
+- Los usuarios tuvieron una experiencia fluida con la aplicación y demostraron interés en ella, lo cual resulta valioso para continuar el desarrollo de la misma. La simulación de juego permitió que su experiencia fuera más realista, lo que ayudó en la fluidez de uso.
+- Las nuevas funcionalidades incorporadas en este sprint les resultaron útiles a los usuarios, y demostraron interés tanto en la interacción con amigos (al invitar a partidas y torneos y visualizar el ranking con ellos) así como en la acumulación de puntos para obtener canje de productos.
+
+**Hallazgos a Mejorar**:
+- Los usuarios sugirieron que cada juego podría tener su propia vista, dentro de la cual acceder a crear partidas o torneos y ver el ranking de dicho juego. Actualmente el usuario debe elegir primero la acción a realizar (por ejemplo, ver el ranking) y luego elegir el juego sobre el cual realizar dicha acción. Este feedback resulta muy valioso, ya que se ve un potencial grande en que cada juego tenga su propia vista a la que se podría incorporar nuevas acciones con flexibilidad dependiendo de cada juego.
+- Algunos usuarios también encontraron pequeños errores en el prototipo, los cuales fueron documentados como bugs para próximas iteraciones.
+
+**Feedback de los Usuarios**:
+- Los usuarios se muestran fuertemente interesados, desean que la aplicación incluya variedad de juegos para divertirse y a su vez generar comunidad en torno a los juegos. Habiendo lugar para mejoras, se visualiza un gran potencial para la aplicación.
+
+**Acciones Propuestas**:
+
+Basándonos en los hallazgos y el feedback de los usuarios, las acciones propuestas son las siguientes:
+- Evaluar las mejoras sugeridas por los usuarios y estimar su desarrollo, se priorizará generar las vistas de cada juego para testear este nuevo flujo y evaluar su respuesta
+- Implementar de manera sólida la aplicación
+- Continuar realizando pruebas de usabilidad, ya que los usuarios han demostrado aportar gran valor a mejorar la aplicación
+
+**Conclusión**:
+
+Se solidificó la validez del producto ante una nueva ronda de pruebas de usabilidad. Los usuarios demuestran un gran interés, por lo que se planificará la siguiente etapa de desarrollo del proyecto. Nuevamente los usuarios proporcionaron información valiosa que permitirá mejorar la fluidez de uso para generar una aplicación intuitiva y dinámica.
