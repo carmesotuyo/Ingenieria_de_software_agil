@@ -10,18 +10,37 @@
 
 # Gestión de la iteración
 
-## Definición del marco de trabajo
+Al igual que en la iteración anterior, mantenemos del marco de trabajo SCRUM los roles principales y ceremonias para llevar adelante las tareas de prototipado y evaluación del proceso de trabajo.
 
-_[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
+Mantenemos los mismos roles:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
 
-### Artefactos principales
+Mantenemos la agenda de actividades, con la única modificación de que pasamos a realizar la Daily Scrum flexible, es decir quienes no se pueden unir en el tiempo definido pueden enviar su update por escrito al grupo de whatsapp del equipo. De esta manera no generamos pérdida de tiempo durante las meetings, y a su vez mantenemos la planificación actualizada.
 
-- Justificación de las adaptaciones principales del marco de trabajo al contexto del proyecto.
-- Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración.
-- Roles y responsabilidades definidos para cada integrante del equipo.
-- Políticas de trabajo del equipo:
-  - Definition of Done.
-  - Definition of Ready.
+- Sprint Planning: primer lunes de cada sprint
+- Daily Scrum: martes y jueves
+- Sprint Review: último viernes del sprint
+- Sprint Retrospective: último viernes del sprint, posterior a la Review
+
+## Definiciones del equipo
+
+Mejoramos las definiciones previamente establecidas.
+
+### Definition of Done (DoD): 
+
+- El prototipo es interactivo y permite simular todas las funcionalidades planteadas.
+- Se realizaron pruebas de aceptación sobre el prototipo y las mismas pasaron.
+- La documentación del trabajo realizado en cada iteración se realiza en una rama separada de main
+- La rama de trabajo es revisada por otro miembro del equipo, diferente a quien la trabajó
+- Una vez aprobada y finalizado el trabajo de la iteración, el mismo es mergeado a Main
+
+### Definition of Ready (DoR):
+
+- La descripción es clara y comprensible para todos los interesados.
+- Cuenta con criterios de aceptación definidos.
+- Cumple con las características INVEST, es decir es independiente, negociable, aporta valor, es estimable, pequeña y testeable.
 
 ## Planificación de la iteración
 
