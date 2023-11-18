@@ -132,16 +132,91 @@ Se garantizará que todas las herramientas utilizadas estén debidamente archiva
 
 ## Seguimiento de la iteración
 
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
+### Minuta de Daily Scrum 13:
 
-### Artefactos principales
+**Fecha**: 7 de noviembre de 2023
 
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-  - ¿Que logramos hacer?
-  - ¿Qué planificamos hacer?
-  - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
+**Asistentes**:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
+
+**¿Qué logramos hacer?**
+- Iniciamos la iteración 4 con un enfoque claro en las actividades de cierre del proyecto.
+- Revisamos los entregables finales y confirmamos la conclusión de las funcionalidades pendientes.
+
+**¿Qué planificamos hacer?**
+- Realizar una última revisión integral de todas las funcionalidades y asegurarnos de que estén completamente implementadas.
+Iniciar la documentación final y preparar todos los artefactos necesarios para la entrega.
+
+**¿Qué impedimentos tenemos?**
+- No se presentaron impedimentos
+
+### Minuta de Daily Scrum 14:
+
+**Fecha**: 9 de noviembre de 2023
+
+**Asistentes**:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
+
+**¿Qué logramos hacer?**
+- Progresamos en la revisión integral de las funcionalidades implementadas.
+- Iniciamos la documentación final y organizamos los entregables para la entrega.
+
+
+**¿Qué planificamos hacer?**
+- Finalizar la documentación y confirmar que todos los artefactos estén listos para la entrega.
+- Coordinar una revisión final interna antes de la entrega al cliente.
+
+
+**¿Qué impedimentos tenemos?**
+- No se progresó mucho porque no hubo tiempo de parte del equipo por otros proyectos
+
+### Minuta de Daily Scrum 15:
+
+**Fecha**: 14 de noviembre de 2023
+
+**Asistentes**:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
+
+**¿Qué logramos hacer?**
+- Finalizamos la documentación y preparamos todos los artefactos para la entrega.
+- Realizamos una revisión interna exhaustiva para garantizar la calidad de los entregables.
+
+
+**¿Qué planificamos hacer?**
+- Coordinar la entrega formal del proyecto.
+- Programar una reunión de cierre interno para reflexionar sobre el proceso.
+
+
+**¿Qué impedimentos tenemos?**
+- La revisión interna llevó más tiempo del esperado, pero aseguró la calidad de los entregables.
+
+### Minuta de Daily Scrum 16:
+
+**Fecha**: 16 de noviembre de 2023
+
+**Asistentes**:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
+
+**¿Qué logramos hacer?**
+- Coordinamos la entrega formal del proyecto al cliente de manera exitosa.
+- Celebramos el cierre del proyecto y compartimos las lecciones aprendidas.
+
+
+**¿Qué planificamos hacer?**
+- Programar una reunión de cierre con el cliente para recibir feedback final.
+- Documentar las lecciones aprendidas y cerrar formalmente el proyecto.
+
+
+**¿Qué impedimentos tenemos?**
+- No se presentaron impedimentos en la etapa final del proyecto.
 
 ## Inspección y adaptación del proceso
 
