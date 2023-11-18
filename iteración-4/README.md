@@ -114,13 +114,11 @@ Se garantizará que todas las herramientas utilizadas estén debidamente archiva
 
 ### Sprint backlog con historias de usuarios y tareas asociadas
 **Épica 7: Mejoras**
-- **Seleccionar un solo juego a la vez**: Como usuario, quiero poder seleccionar un solo juego a la vez en la lista del mercado para obtener más información sobre él
+- **Seleccionar un solo juego a la vez**: Como usuario, quiero poder seleccionar un solo juego a la vez.
   - **Criterios de Aceptación**: 
     - Solo se puede seleccionar un juego a la vez en la lista del mercado.
-    - Al seleccionar un juego, se debe mostrar información detallada sobre ese juego.
   - **Tareas**:
-    1. Implementar la funcionalidad de selección de juegos en la lista del mercado.
-    2. Diseñar una interfaz que muestre la información detallada del juego seleccionado.
+    1. Implementar la funcionalidad de selección de juegos en la lista del mercado
 
 - **Estandarizar botones y mensajes**: Como usuario, quiero que los botones y mensajes en la aplicación sigan un estándar de diseño y comunicación para una experiencia coherente.
   - **Criterios de Aceptación**: 
@@ -268,12 +266,81 @@ Hemos identificado áreas para mejorar y definido acciones concretas para aborda
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
 ## Prototipos finales
+ 
+### Prototipos interactivos finales con el feedback de las validaciones
 
-_[Se evidencian los prototipos finales con las validaciones de los usuarios. Los prototipos deberán ser exportados en algún formato de imagen (como png o jpg) a efectos de poder ser visualizados fácilmente dentro del propio repo de github.]_
+En el siguiente link se puede apreciar el prototipo final interactivo, para hace si se abre desde una PC, se debe achicar la ventana simulando la pantalla de un móvil:
+https://mvpvideogames.framer.website/
 
-### Artefactos principales
+#### Feedback de las validaciones finales
 
-- Prototipos interactivos finales con el feedback de las validaciones.
-- Prototipos asociados como bocetos a las historias de usuario.
-- Lista de mejoras sugeridas de las validaciones con usuarios finales.
-  - Se explicita que mejoras fueron implementadas en los prototipos y cuales quedaron fuera del alcance del proyecto.
+Durante las validaciones del prototipo final, se obtuvieron comentarios valiosos que proporcionarán insights clave para mejorar aún más la aplicación.
+
+- Posibilidad de Jugar:
+  - Aunque se introdujo un intento de simular la conexión con un juego mediante un video, los usuarios aún expresaron deseos de una opción más interactiva.
+- Claridad en la Elección de Juegos:
+  - Mostrar el nombre de cada juego debajo de los íconos mejoró la comprensión, pero algunos usuarios sugirieron un formato más llamativo.
+- Selección de Juegos:
+  - La corrección de la posibilidad de seleccionar múltiples juegos fue bien recibida por los usuarios.
+- Mejora de Mensajes Toast:
+  - Los ajustes propuestos en los mensajes toast contribuyeron a una mejor comprensión de las acciones del usuario.
+- Invitar Amigos en Creación de Partida:
+  - Los usuarios expresaron su deseo de una función de invitación de amigos, lo cual se considera una adición valiosa.
+- Vistas Específicas para Cada Juego:
+  - La sugerencia de proporcionar vistas específicas para cada juego fue respaldada positivamente por los usuarios.
+
+**Conclusiones:**
+
+El feedback de las validaciones del prototipo final reafirma el interés de los usuarios y destaca áreas clave para mejoras adicionales.
+
+### Prototipos asociados como bocetos a las historias de usuario
+
+**Seleccionar un solo juego a la vez**: Como usuario, quiero poder seleccionar un solo juego a la vez.
+- Criterios de Aceptación: 
+  - Solo se puede seleccionar un juego a la vez en la lista del mercado.
+- Tareas:
+  - Implementar la funcionalidad de selección de juegos en la lista del mercado.
+
+![image](https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/72991161/c8d519a8-8264-4200-9d19-0f03311a996c)
+
+**Estandarizar botones y mensajes**: Como usuario, quiero que los botones y mensajes en la aplicación sigan un estándar de diseño..
+- Criterios de Aceptación: 
+  - Todos los botones en la aplicación deben tener un diseño y tamaño consistentes.
+  - Los mensajes y notificaciones deben seguir una tonalidad y estilo uniformes.
+- Tareas:
+  - Revisar y actualizar el diseño de los botones en toda la aplicación para que sigan un estándar.
+  - Asegurarse de que los mensajes y notificaciones tengan una comunicación coherente y clara.
+
+![image](https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/72991161/8a70e8d8-00e4-4690-bc26-3cebf8a9ff2d)
+
+### Lista de mejoras sugeridas de las validaciones con usuarios finales
+
+**Mejoras Logradas en el Prototipo Final:**
+
+- Posibilidad de Jugar:
+  - Descripción: Se exploraron opciones para simular la conexión con un juego mediante un video.
+- Claridad en la Elección de Juegos:
+  - Descripción: Se mejoró la identificación de los juegos al mostrar el nombre debajo de los íconos en la pantalla de elección de juegos.
+- Selección de Juegos:
+  - Descripción: Se corrigió la posibilidad de seleccionar múltiples juegos simultáneamente.
+- Botones sin Interacción:
+  - Descripción: Se añadió interactividad a los íconos de menú y notificaciones en la pantalla de inicio.
+- Campo Cantidad de Jugadores:
+  - Descripción: Se reevaluó la necesidad de asignar recursos a este ajuste y se priorizó según la importancia para la experiencia del usuario.
+- Mejora de Mensajes Toast:
+  - Descripción: Se refinaron los mensajes toast para una comunicación más clara y consistente.
+- Contraseña Visible:
+  - Descripción: Se evaluó la necesidad de cambiar esta funcionalidad en base a futuros hallazgos de seguridad.
+- Invitar Amigos en Creación de Partida:
+  - Descripción: Se consideró como una adición valiosa y se priorizó para futuras iteraciones.
+- Vistas Específicas para Cada Juego:
+  - Descripción: Se respaldó positivamente la sugerencia de proporcionar vistas específicas para cada juego.
+
+**Mejoras Fuera del Alcance del Proyecto:**
+
+- Jugar de Verdad:
+  - Descripción: Permitir una experiencia de juego real dentro de la aplicación.
+- Mostrar Géneros de Juegos y Juegos Específicos:
+  - Descripción: Proporcionar información sobre géneros de juegos y permitir la selección de juegos específicos.
+- Chat Entre Amigos:
+  - Descripción: Integrar una función de chat para la comunicación entre amigos dentro de la aplicación.
