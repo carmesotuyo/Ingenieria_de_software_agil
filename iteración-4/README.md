@@ -220,12 +220,26 @@ Iniciar la documentación final y preparar todos los artefactos necesarios para 
 
 ## Inspección y adaptación del proceso
 
-_[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
+### Minuta de la Retrospectiva: Sprint 4
+**Fecha**: 17 de noviembre de 2023
 
-### Artefactos principales
+**Asistentes**: Scrum Master: Clara Casaretto Product Owner: Fernando Spillere Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
 
-- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
-- Planificación y seguimiento de las acciones de mejora.
+**Dinámica Utilizada**: En esta retrospectiva, hemos decidido emplear la técnica "Estrella de Mar". Cada miembro del equipo ha compartido aspectos que considera que funcionaron bien durante la iteración y áreas que podrían mejorarse.
+
+**Principales Resultados:** 
+
+**Funcionó Bien:**
+- Finalización exitosa de la documentación y entrega de los prototipos.
+- Celebración y cierre positivo del proyecto.
+
+
+**A Mejorar:**
+- Ajustes finales tomaron más tiempo del esperado.
+- Descoordinación en la revisión final interna.
+
+**Conclusiones y Cierre de la Retrospectiva:** 
+Hemos identificado áreas para mejorar y definido acciones concretas para abordarlas. Estamos comprometidos a implementar estos cambios y esperamos una conclusión del proyecto sin contratiempos y con aprendizajes valiosos.
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
