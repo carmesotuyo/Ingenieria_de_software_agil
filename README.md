@@ -115,12 +115,57 @@ Enfatizar la complementariedad de nuestra aplicación con Steam, ofreciendo func
 
 ## Informe académico
 
-_[Existe la elaboración de un informe académico que resume los resultados y reflexiona sobre las lecciones aprendidas sobre las prácticas de ingeniería de software ágil. El informe académico deberá ser implementado como un archivo de markdown en el propio repositorio de github.]_
+### Resumen del Proyecto
 
-### Artefactos principales
+El presente informe académico detalla el desarrollo del proyecto de creación de una aplicación de videojuegos en línea, gestionado utilizando técnicas de equipos ágiles adaptando el marco de trabajo Scrum. El proyecto se dividió en cuatro iteraciones, cada una enfocada en la agilidad, la retroalimentación constante gracias al feedback de los usuarios y la adaptabilidad para la mejora continua. Las reuniones de Sprint Planning, Daily Scrum y Sprint Review jugaron roles fundamentales en la planificación, ejecución y evaluación del trabajo del equipo.
 
-- Informe académico resumiendo resultados principales del proyecto.
-- Reflexiones y aprendizajes del proyecto.
+### Resultados Principales del Proyecto
+
+#### Desarrollo de Prototipos:
+- Fueron generados prototipos utilizando herramientas como Figma y Framer.
+- Se implementaron mejoras en respuesta al feedback de los usuarios.
+  
+#### Gestión de Torneos, Perfil de Usuario y Estadísticas:
+- Funcionalidades clave como la creación de torneos, perfil de usuario y ranking se implementaron con éxito.
+
+#### Notificaciones y Comunicación:
+- Se incorporaron notificaciones para mantener a los usuarios informados sobre el estado de las partidas y torneos.
+
+#### Sistema de Puntos y Mercado de Objetos:
+- Se diseñó un sistema de puntos que permite a los usuarios acumular puntos ganando torneos.
+- Se implementó un mercado donde los usuarios pueden canjear puntos por objetos.
+
+#### Mejoras en la Experiencia del Usuario:
+- Se mejoró la interfaz de usuario, incluyendo un estándar de diseño para botones y mensajes.
+- Se trabajó en la posibilidad de seleccionar un solo juego a la vez en la lista del mercado.
+
+#### Reflexiones Finales:
+- Se realizaron actividades de cierre, documentación y preparación para la entrega final del proyecto.
+- Se llevaron a cabo reflexiones sobre las lecciones aprendidas a lo largo de todo el proceso.
+
+## Reflexiones y Aprendizajes del Proyecto
+
+1. **Flexibilidad y Adaptabilidad**:
+  La metodología Scrum nos permitió mantener una comunicación fluida con el equipo y una rápida adaptación a los cambios y feedback constante. Nos supimos adaptar en las distintas etapas del proceso al ritmo de trabajo de cada integrante y a los desafíos presentados.
+2. **Colaboración Efectiva**:
+  La colaboración entre los miembros del equipo fue clave para abordar desafíos y tomar decisiones informadas.
+3. **Gestión del Tiempo**:
+  La gestión del tiempo fue crucial, especialmente al final del proyecto, donde se experimentó con momentos de estancamiento. Aprendimos que es importante cumplir con la dedicación pautada, y si no es posible notificarlo con anticipación y buscar soluciones dentro del equipo. Para esto es importante el apoyo de todos los miembros del equipo.
+4. **Feedback de Usuarios**:
+  La retroalimentación de los usuarios fue esencial para ajustar y mejorar continuamente el producto.
+5. **Entrega Incremental**:
+  La entrega iterativa permitió ajustes y mejoras constantes en función del feedback y los cambios en los requisitos. A su vez permitió evaluar y mejorar los procesos de trabajo del equipo.
+
+### Lecciones Aprendidas y Acciones Propuestas
+
+- **Comunicación sobre Impedimentos**:
+Fomentar una comunicación proactiva sobre impedimentos en las reuniones diarias es fundamental para mantener el flujo de trabajo del equipo. Valoramos la honestidad y la transparencia para un mejor desarrollo del proyecto. Muchas veces no es tan importante el medio de comunicación, pero sí que esta comunicación exista y sea fluida y constante para que el equipo pueda colaborar.
+- **Gestión del Tiempo**:
+Implementar técnicas efectivas de gestión del tiempo es clave, especialmente en la fase final del proyecto. El equipo comenzó el proyecto motivado y con buena dedicación, pero notamos que los desafíos e impedimentos generaban estancamiento, y sobre el final del proyecto el equipo también cuenta con otras responsabilidades fuera del proyecto, por lo que una buena gestión del tiempo es necesaria para la conclusión exitosa del proyecto.
+
+## Conclusión
+
+El proyecto realizado por el equipo nos demostró la efectividad del enfoque ágil, destacando la adaptabilidad del equipo ante cambios y desafíos. Las lecciones aprendidas proporcionarán una base sólida para futuros proyectos ágiles, reforzando la importancia de la colaboración, el feedback continuo y la mejora constante en el proceso de ingeniería de software ágil.
 
 ## Video demo
 
