@@ -44,16 +44,91 @@ Mejoramos las definiciones previamente establecidas.
 
 ## Planificación de la iteración
 
-_[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
+### Minuta de la Sprint Planning: Iteración 4
 
-### Artefactos principales
+**Fecha**: 6 de noviembre 
 
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-- Uso de métricas relevantes para la planificación como la velocidad y productividad.
+**Asistentes**:
+- Scrum Master: Clara Casaretto
+- Product Owner: Fernando Spillere
+- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
+
+**Agenda**:
+
+1. Bienvenida y Objetivo de la Reunión:
+Inicio de la reunión con una breve bienvenida.
+Objetivo: Reflexionar sobre el feedback final de los clientes y planificar las actividades de cierre del proyecto.
+
+2. Feedback de Clientes:
+Compartir y discutir los comentarios finales de los clientes sobre la aplicación del juego.
+Destacar los puntos clave y áreas de éxito identificadas por los clientes.
+
+3. Creación de User Stories:
+Identificar las últimas funcionalidades y mejoras necesarias para cerrar el proyecto de manera integral.
+Crear user stories basadas en los comentarios finales de los clientes.
+
+4. Priorización de User Stories:
+Priorizar las user stories de acuerdo con su importancia para cerrar el proyecto de manera satisfactoria.
+Acordar cuáles serán abordadas en esta última iteración.
+
+5. Asignación de Tareas:
+Asignar las últimas tareas a los miembros del equipo de desarrollo.
+Establecer responsabilidades específicas para la implementación de funcionalidades y actividades de cierre.
+
+6. Conclusiones y Cierre de la Reunión:
+Resumir los acuerdos alcanzados.
+Establecer los próximos pasos y actividades de cierre.
+Concluir la reunión con un enfoque claro en la finalización exitosa del proyecto.
+
+
+
+**Actividades y Resultados**:
+- Reflexión sobre el feedback final de los clientes.
+- Identificación de las últimas mejoras y funcionalidades para cerrar el proyecto.
+- Priorización de actividades de cierre.
+- Asignación de tareas específicas a los miembros del equipo.
+- Planificación de las últimas acciones para cerrar el proyecto de manera efectiva.
+
+La reunión fue productiva y permitió al equipo de desarrollo abordar de manera efectiva las últimas mejoras y funcionalidades necesarias para concluir el proyecto de manera satisfactoria, basándose en el feedback final de los clientes.
+
+
+### Objetivos de la iteración 
+
+En la Iteración 4, nuestro enfoque se centra en las reflexiones finales y en cerrar de manera integral el proyecto, consolidando las mejoras realizadas y preparándonos para la fase de entrega. Este resumen destaca los puntos clave relacionados con los objetivos, resultados, actividades y el enfoque de esta última etapa del desarrollo.
+
+- Cierre Integral del Proyecto:
+  
+En la Iteración 4, nos centraremos en completar todas las funcionalidades y actividades restantes para cerrar el proyecto de manera satisfactoria.
+Se revisarán las user stories creadas en respuesta al feedback final de los clientes, asegurando su implementación y resolviendo posibles problemas pendientes.
+
+- Reflexiones y Aprendizajes Finales:
+
+Durante esta iteración, dedicaremos tiempo a reflexionar sobre el proyecto en su totalidad.
+Se realizará un análisis de los aprendizajes obtenidos a lo largo del desarrollo y se documentarán las lecciones aprendidas para futuros proyectos.
+
+- Preparación para la Entrega:
+
+Se prepararán los entregables finales, incluyendo documentación, prototipos finales y cualquier otro artefacto necesario.
+Se garantizará que todas las herramientas utilizadas estén debidamente archivadas y que el código fuente esté organizado y disponible para futuras referencias.
+
+
+### Sprint backlog con historias de usuarios y tareas asociadas
+**Épica 7: Mejoras**
+- **Seleccionar un solo juego a la vez**: Como usuario, quiero poder seleccionar un solo juego a la vez en la lista del mercado para obtener más información sobre él
+  - **Criterios de Aceptación**: 
+    - Solo se puede seleccionar un juego a la vez en la lista del mercado.
+    - Al seleccionar un juego, se debe mostrar información detallada sobre ese juego.
+  - **Tareas**:
+    1. Implementar la funcionalidad de selección de juegos en la lista del mercado.
+    2. Diseñar una interfaz que muestre la información detallada del juego seleccionado.
+
+- **Estandarizar botones y mensajes**: Como usuario, quiero que los botones y mensajes en la aplicación sigan un estándar de diseño y comunicación para una experiencia coherente.
+  - **Criterios de Aceptación**: 
+    - Todos los botones en la aplicación deben tener un diseño y tamaño consistentes.
+    - Los mensajes y notificaciones deben seguir una tonalidad y estilo uniformes.
+  - **Tareas**:
+    1. Revisar y actualizar el diseño de los botones en toda la aplicación para que sigan un estándar.
+    2. Asegurarse de que los mensajes y notificaciones tengan una comunicación coherente y clara.
 
 ## Seguimiento de la iteración
 
