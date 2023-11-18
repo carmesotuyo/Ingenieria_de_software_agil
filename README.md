@@ -22,7 +22,12 @@ Para el desarrollo del proyecto se deberá utilizar el marco de trabajo SCRUM. E
 
 # Integrantes del equipo
 
-_[Enumerar los integrantes del equipo con sus números de estudiantes y rol dentro del proyecto.]_
+- Clara Casaretto (250991) - Scrum Master
+- Fernando Spillere (274924) - Product Owner
+- Carmela Sotuyo (186554) - Development team
+- Ignacio Malamud (271968) - Development team
+- Alejandro Ruiz (325566) - Development team
+- Javier Gonzalez (325610) -  Development team
 
 # Iteraciones y esfuerzo
 
@@ -39,36 +44,36 @@ Las siguientes carpetas deberán tener la entrega de cada iteración siguiendo l
 
 # Mejoras y ajustes principales a los entregables de cada iteración
 
-_[Con el desarrollo del proyecto se pueden ir encontrando mejoras a los entregables ya realizados de cada iteración. Enumerar en esta sección las principales mejoras realizadas posterior a cada entrega. Esto puede incluir la implementación de las sugerencias realizadas por los docentes durante el proyecto.]_
+## Mejoras de la Iteración 1:
+### Estudio de competidores
 
-## Mejoras de la Iteración 1: ##
-**Estudio de competidores:**
-
-**Oportunidad de Valor No Cumplida por el Mercado Actual:**
+#### Oportunidad de Valor No Cumplida por el Mercado Actual:
 
 En el actual panorama de aplicaciones de gestión de juegos y torneos móviles, ninguna de las opciones disponibles ofrece una experiencia tan completa y gratificante como la que proponemos. La oportunidad de valor no cumplida radica en la ausencia de un sistema que permita a los usuarios ganar puntos durante los torneos y partidas para luego canjearlos en un mercado interno que abarca desde productos físicos hasta contenido digital, juegos exclusivos y más. Esta innovadora característica eleva la experiencia de juego a un nuevo nivel, proporcionando una recompensa tangible y virtual por la dedicación y habilidades de los usuarios en el mundo virtual. Es una propuesta de valor sin igual en el mercado actual, que destaca por su enfoque único y emocionante en la satisfacción de los jugadores.
 
 
-**Propuesta de Valor Diferenciadora:**
+#### Propuesta de Valor Diferenciadora:
 
 Nuestra aplicación ofrece una experiencia de juego completamente nueva y emocionante. Los usuarios tienen la oportunidad de ganar puntos al participar en torneos y partidas, los cuales pueden canjear en nuestro mercado interno por una amplia variedad de recompensas que van desde productos físicos hasta contenido digital, juegos exclusivos y mucho más. Esta característica única añade un nivel adicional de emoción y gratificación a la experiencia de juego, permitiendo a los usuarios obtener recompensas tangibles y virtuales por su dedicación y habilidades en el mundo virtual. Además, nuestra plataforma se integra perfectamente con Steam, mejorando aún más la experiencia de juego y proporcionando una propuesta de valor incomparable en el mercado actual.
 
-**Interesados Mejorados:**
+### Interesados Mejorados
 
-**Organizadores de Torneos y Equipos de eSports:**
+#### Organizadores de Torneos y Equipos de eSports:
 
 Destacar la importancia de la personalización de torneos, gestión eficiente de equipos y jugadores, así como la integración de herramientas analíticas para mejorar el rendimiento.
 
 
-**Jugadores Individuales:**
+#### Jugadores Individuales:
 
 Resaltar la experiencia social en línea, facilitando la participación en actividades y la comunicación con otros jugadores.
 
-**Usuarios de Steam:**
+#### Usuarios de Steam:
 
 Enfatizar la complementariedad de nuestra aplicación con Steam, ofreciendo funcionalidades específicas para la organización y gestión de torneos, así como la interacción social en línea.
 
-**Perfiles User Personas:**
+#### Perfiles User Personas:
+
+----------
 
 **Nombre:** Laura "La Jugadora Comprometida"
 
@@ -80,7 +85,7 @@ Enfatizar la complementariedad de nuestra aplicación con Steam, ofreciendo func
 
 **Necesidades y Expectativas:** Laura espera una aplicación intuitiva y fácil de usar que le permita participar en torneos, gestionar sus equipos y conectarse con otros jugadores. Valora la diversidad de recompensas disponibles en el mercado interno.
 
-
+----------
 
 **Nombre:** Martín "El Organizador de Torneos"
 
@@ -92,7 +97,7 @@ Enfatizar la complementariedad de nuestra aplicación con Steam, ofreciendo func
 
 **Necesidades y Expectativas:** Martín necesita una aplicación que le permita crear y administrar torneos de manera eficaz, así como comunicarse fácilmente con los participantes. Aprecia la posibilidad de integrar funciones sociales para fomentar la interacción entre los usuarios.
 
-
+----------
 
 **Nombre:** Carlos "El Jugador Casual"
 
@@ -104,7 +109,7 @@ Enfatizar la complementariedad de nuestra aplicación con Steam, ofreciendo func
 
 **Necesidades y Expectativas:** Carlos busca una aplicación que le permita unirse a partidas de manera sencilla, interactuar con otros jugadores y acceder a un amplio catálogo de recompensas. Valora la facilidad de uso y la diversidad de contenido disponible.
 
-
+----------
 
 # Reflexiones y aprendizajes finales de los resultados del proyecto
 
