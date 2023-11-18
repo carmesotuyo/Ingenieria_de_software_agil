@@ -269,7 +269,7 @@ Hemos identificado áreas para mejorar y definido acciones concretas para aborda
  
 ### Prototipos interactivos finales con el feedback de las validaciones
 
-En el siguiente link se puede apreciar el prototipo final interactivo, para hace si se abre desde una PC, se debe achicar la ventana simulando la pantalla de un móvil:
+En el siguiente enlace se puede visualizar el prototipo interactivo, para su mejor visualización recomendamos abrirlo en un dispositivo móvil, o adaptar la pantalla del navegador ya que el prototipo fue pensado para una aplicación móvil:
 https://mvpvideogames.framer.website/
 
 #### Feedback de las validaciones finales
