@@ -119,8 +119,8 @@ _[Existe la elaboración de un informe académico que resume los resultados y re
 
 ## Video demo
 
-_[Debe existir un video (de 6 minutos máximo) demostrando el flujo principal de los prototipos, explicando el problema que se quiere resolver y el valor entregado por el producto ideado. El video deberá ser publicado y enlazado en el informe académico para su correcta visualización.]_
 
-### Artefactos principales
+https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/e8c5b585-6a17-4292-99e5-cba53e539144
 
-- Video de 6 minutos demostrando el flujo de la aplicación y explicando la propuesta de valor.
+
+ 
