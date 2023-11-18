@@ -129,6 +129,15 @@ Se garantizará que todas las herramientas utilizadas estén debidamente archiva
   - **Tareas**:
     1. Revisar y actualizar el diseño de los botones en toda la aplicación para que sigan un estándar.
     2. Asegurarse de que los mensajes y notificaciones tengan una comunicación coherente y clara.
+   
+### Planificación de acuerdo a la capacidad del equipo.
+Para este sprint, se tomaron las historias de usuario generadas a partir del feedback de los clientes, las cuales resultaron en 2 con un esfuerzo estimado en 4 story points. Es un número menor al que se viene trabajando pero esas eran todas las que teníamos en el backlog.
+
+### Técnicas de priorización y estimación utilizada
+En este caso especial al haber únicamente 2 historias de usuarios, se decidió realizarlas todas. No hubo una técnica de priorización específica. La estimación la hicimos en base al esfuerzo realizado anteriormente.
+
+### Métricas del equipo
+El equipo obtuvo una velocity de 4 story points en este Sprint, inferior a los 10 SP alcanzados en los sprints pasados, pero teniendo en cuenta que se tomaron todas las historias de usuarios habidas en el backlog.
 
 ## Seguimiento de la iteración
 
