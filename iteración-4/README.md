@@ -190,7 +190,7 @@ Iniciar la documentación final y preparar todos los artefactos necesarios para 
 **Asistentes**:
 - Scrum Master: Clara Casaretto
 - Product Owner: Fernando Spillere
-- Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
+- Miembros del Equipo de Desarrollo: Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
 
 **¿Qué logramos hacer?**
 - Finalizamos la documentación y preparamos todos los artefactos para la entrega.
@@ -203,7 +203,7 @@ Iniciar la documentación final y preparar todos los artefactos necesarios para 
 
 
 **¿Qué impedimentos tenemos?**
-- La revisión interna llevó más tiempo del esperado, pero aseguró la calidad de los entregables.
+- Contamos con una integrante menos en el equipo por unos días ya que se fue de viaje.
 
 ### Minuta de Daily Scrum 16:
 
@@ -215,17 +215,32 @@ Iniciar la documentación final y preparar todos los artefactos necesarios para 
 - Miembros del Equipo de Desarrollo: Carmela Sotuyo, Ignacio Malamud, Alejandro Ruiz, Javier Gonzalez
 
 **¿Qué logramos hacer?**
-- Coordinamos la entrega formal del proyecto al cliente de manera exitosa.
-- Celebramos el cierre del proyecto y compartimos las lecciones aprendidas.
+- Nos acercamos a la completitud del trabajo.
 
 
 **¿Qué planificamos hacer?**
-- Programar una reunión de cierre con el cliente para recibir feedback final.
 - Documentar las lecciones aprendidas y cerrar formalmente el proyecto.
 
 
 **¿Qué impedimentos tenemos?**
 - No se presentaron impedimentos en la etapa final del proyecto.
+
+### Reporte de horas
+
+En la etapa final del proyecto, el equipo se vió un poco más reducido, lo cual impactó en la dedicación en horas al proyecto. A su vez se sintió menos presión por la cantidad de esfuerzo requerido, lo cual también explica la reducción en cantidad de horas dedicadas.
+
+Primera semana de la iteración:
+<img width="1225" alt="Screenshot 2023-11-18 at 00 07 40" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/725f6d5c-4780-4403-a660-9a7c41fe07b6">
+
+Segunda semana de la iteración:
+<img width="1222" alt="Screenshot 2023-11-18 at 00 07 50" src="https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/6e49909d-ca69-4cad-b682-766f74a02bb0">
+
+### Burndown chart
+
+En la última iteración el equipo abandonó un poco el seguimiento dentro de la herramienta Azure. Esto se explica por varias razones, por ejemplo el hecho de que se contaban con pocas historias de usuario para implementar en esta iteración, así como cierta desorganización y cansacio por parte de los integrantes en esta última etapa del proyecto. Si bien las tareas y pendientes se fueron realizando durante la iteración, no se realizó un buen registro en la herramienta. Es por esto que el burndown chart se ve sin cambios hasta que se marcan como terminadas todas las tareas sobre el final de la iteración.
+
+![WhatsApp Image 2023-11-18 at 00 36 04](https://github.com/IngSoft-ISA1-2023-2/N6A-AN-mini-proyecto-casaretto-gonz-malam-ruiz-sot-spil/assets/101828758/3971f9ba-9e16-4421-b383-9e5717b802be)
+
 
 ## Inspección y adaptación del proceso
 
